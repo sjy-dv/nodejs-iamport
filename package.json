@@ -1,0 +1,16 @@
+{
+  "name": "iamnodeport",
+  "version": "1.0.0",
+  "description": "iamport - nodejs version",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "seojaeyoung",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "benchmark": "^2.1.4",
+    "jest": "^29.6.0"
+  }
+}
